@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable card_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable iconmonstr_plus_circle_lined
+drawable iconmonstr_save_13
+drawable iconmonstr_x_mark_circle_lined
+id editTextField
+id editTextField1
+id flashcard_question
+id flashcard_reponse
+id icone_X
+id icone_save
+id toggle123
+layout activity_add_card
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Flashcard_App
+style Theme.Flashcard_App
+xml backup_rules
+xml data_extraction_rules
